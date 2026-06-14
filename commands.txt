@@ -1,0 +1,7 @@
+   1 try { . "c:\Users\CHETAN\AppData\Local\Programs\Microsoft VS Code\6928394f91\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegrati...
+   2 python -v                                                                                                                                                    
+   3 python --version                                                                                                                                             
+   4 clear                                                                                                                                                        
+   5 py .\testing.py                                                                                                                                              
+   6 clear                                                                                                                                                        
+   7 clear
